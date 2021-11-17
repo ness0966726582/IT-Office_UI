@@ -5,10 +5,10 @@
 主題: 帳號密碼登入+網路修改參數
 
 初始設定
-URL:https://docs.google.com/spreadsheets/d/1YvBv43Adb5CDEMngiFn2LPxZXdN9BR0unPYqUVNNaZE/edit#gid=0
-ID:1YvBv43Adb5CDEMngiFn2LPxZXdN9BR0unPYqUVNNaZE
-PAGE:123
-CELL:A15
+URL:https://docs.google.com/spreadsheets/d/1MPDP0OMu0xLWOrYWarn2WPnphYnmk0K4rnpujYVhTAg/edit#gid=0
+ID:1MPDP0OMu0xLWOrYWarn2WPnphYnmk0K4rnpujYVhTAg
+PAGE:1
+CELL:A1
 Path:./參數調整/demo.txt
 
 
@@ -183,6 +183,7 @@ def BTN__Matching_options_modification__():
 #發送GOOGLE 指定Cell 更新
 def BNT__Update_Array__(): 
     __csv_Array__(Path_Info)
+    sh.clear()
     sh.update(Cell_Info, csvList)
     print(csvList)
 
