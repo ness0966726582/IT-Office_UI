@@ -1,0 +1,2 @@
+請使用指定GUI_SheetAPI_V3
+Edit Path.txt 抓取路徑 

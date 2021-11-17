@@ -1,0 +1,8 @@
+將機器人加入 googlesheet 編輯權限: office-automation@bbi-update.iam.gserviceaccount.com
+
+1.GUI_SheetAPI_V3 必要參數調整 (登入帳/test 密/123)
+	URL	:	https://docs.google.com/spreadsheets/d/1MPDP0OMu0xLWOrYWarn2WPnphYnmk0K4rnpujYVhTAg/edit#gid=0
+	ID	:	1MPDP0OMu0xLWOrYWarn2WPnphYnmk0K4rnpujYVhTAg
+	PAGE	:	1
+	CELL	:	A1
+	Path	:	C:\Users\ness_huang\Desktop\Office_UI\Office_UI_V1\API\3_Project-CSV\主-參數調整\members.csv

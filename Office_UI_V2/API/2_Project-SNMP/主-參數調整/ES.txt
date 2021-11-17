@@ -1,0 +1,23 @@
+社區	Port	位址	區域	IP	oid			感測器
+public	161	Hotel B1F	COLD	10.30.14.2	1.3.6.1.4.1.2254.2.41.3.2.1.2.1	T-sensor
+public	161	Hotel B1F	COLD	10.30.14.2	1.3.6.1.4.1.2254.2.41.3.2.1.3.1	H-sensor
+public	161	Hotel B1F	HOT	10.30.14.2	1.3.6.1.4.1.2254.2.41.3.2.1.2.2	T-sensor
+public	161	Hotel B1F	HOT	10.30.14.2	1.3.6.1.4.1.2254.2.41.3.2.1.3.2	H-sensor
+public	161	Casino B1F	COLD	10.30.14.11	1.3.6.1.4.1.2254.2.41.3.2.1.2.1	T-sensor
+public	161	Casino B1F	COLD	10.30.14.11	1.3.6.1.4.1.2254.2.41.3.2.1.3.1	H-sensor
+public	161	Casino B1F	HOT	10.30.14.11	1.3.6.1.4.1.2254.2.41.3.2.1.2.2	T-sensor
+public	161	Casino B1F	HOT	10.30.14.11	1.3.6.1.4.1.2254.2.41.3.2.1.3.2	H-sensor
+public	161	OVBD 3F	COLD	10.30.14.21	1.3.6.1.4.1.2254.2.41.3.2.1.2.1	T-sensor
+public	161	OVBD 3F	COLD	10.30.14.21	1.3.6.1.4.1.2254.2.41.3.2.1.3.1	H-sensor
+public	161	OVBD 3F	HOT	10.30.14.21	1.3.6.1.4.1.2254.2.41.3.2.1.2.2	T-sensor
+public	161	OVBD 3F	HOT	10.30.14.21	1.3.6.1.4.1.2254.2.41.3.2.1.3.2	H-sensor
+public	161	OVBD 3F	淹水	10.30.14.21	1.3.6.1.4.1.2254.2.41.2.14.0	Leakage
+public	161	OVBD 4F	1	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.2.1	T-sensor
+public	161	OVBD 4F	1	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.3.1	H-sensor
+public	161	OVBD 4F	2	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.2.2	T-sensor
+public	161	OVBD 4F	2	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.3.2	H-sensor
+public	161	OVBD 4F	3	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.2.3	T-sensor
+public	161	OVBD 4F	3	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.3.3	H-sensor
+public	161	OVBD 4F	4	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.2.4	T-sensor
+public	161	OVBD 4F	4	10.30.14.31	1.3.6.1.4.1.2254.2.41.3.2.1.3.4	H-sensor
+public	161	OVBD 4F	淹水	10.30.14.31	1.3.6.1.4.1.2254.2.41.2.14.0	Leakage
